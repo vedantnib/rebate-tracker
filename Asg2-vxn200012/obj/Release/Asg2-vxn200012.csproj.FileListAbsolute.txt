@@ -1,0 +1,10 @@
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\bin\Release\Asg2-vxn200012.exe.config
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\bin\Release\Asg2-vxn200012.exe
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\bin\Release\Asg2-vxn200012.pdb
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2-vxn200012.csproj.AssemblyReference.cache
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2_vxn200012.rebateForm.resources
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2_vxn200012.Properties.Resources.resources
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2-vxn200012.csproj.GenerateResource.cache
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2-vxn200012.csproj.CoreCompileInputs.cache
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2-vxn200012.exe
+C:\Users\Vedant\Desktop\Asg2-vxn200012\Asg2-vxn200012\obj\Release\Asg2-vxn200012.pdb

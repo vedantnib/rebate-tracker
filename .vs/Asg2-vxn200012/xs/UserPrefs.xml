@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D077190E-F24C-4A05-A2D6-C0980AD3B89E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Asg2-vxn200012/Form1.cs">
+    <Files>
+      <File FileName="Asg2-vxn200012/Form1.cs" Line="45" Column="38" />
+      <File FileName="Asg2-vxn200012/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="Asg2-vxn200012/Form1.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Asg2-vxn200012" expanded="True">
+            <Node name="Asg2-vxn200012" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Form1.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Asg2-vxn200012 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
